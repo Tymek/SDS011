@@ -13,3 +13,5 @@ Options:
 You may need to allow the user to access the serial port.
 
 Labels are based on the _European Air Quality Index_ ([EAQI](https://airindex.eea.europa.eu)) scale.
+
+![example output](https://github.com/user-attachments/assets/47c72176-5ae2-466a-ad5d-1775573dcb9e)
